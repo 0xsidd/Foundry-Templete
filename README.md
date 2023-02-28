@@ -29,8 +29,7 @@ create a new repository with this repo as the initial state.
 Or, if you prefer to install the template manually:
 
 ```sh
-forge init my-project --template https://github.com/0xsidd/Foundry-Templete
-cd my-project
+forge init --template https://github.com/0xsidd/Foundry-Templete
 yarn install # install Solhint, Prettier, and other Node.js deps
 ```
 
