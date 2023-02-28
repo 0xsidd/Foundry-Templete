@@ -31,6 +31,7 @@ Or, if you prefer to install the template manually:
 ```sh
 forge init --template https://github.com/0xsidd/Foundry-Templete
 yarn install # install Solhint, Prettier, and other Node.js deps
+code .
 ```
 
 If this is your first time with Foundry, check out the
